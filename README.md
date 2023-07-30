@@ -5,7 +5,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 A Web Developer, Designer and Coder
 -----------------------------------
 
-🚀 Passionate IT Student | Code Enthusiast | Web Developer | Java, Python, C/C++, HTML, CSS, JS, React 🎯 
+🚀 IT Student | Code Enthusiast | Web Developer | Java, Python, C/C++, HTML, CSS, JS, React 🎯 
 
 
 * 🌍  I'm based in Mumbai
